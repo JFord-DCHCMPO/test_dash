@@ -1,5 +1,3 @@
-caliper
-caliperpy
 traceback
 sys
 os
