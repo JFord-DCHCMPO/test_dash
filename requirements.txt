@@ -1,8 +1,10 @@
-traceback
-sys
-os
 numpy
-pandas
 siuba
 plotnine
+voila
+jupyterlab
+requests
+pandas
+textblob
+plotly-express
 voila
