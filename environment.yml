@@ -1,5 +1,6 @@
-caliperpy
-bqplot
-ipympl
-scipy
-voila
+dependencies:
+  - python=3.8.5
+  - pandas = 1.4.0
+  - siuba = 0.1.2
+  - caliperpy =2021.post7
+  - caliper = 0.0.23
