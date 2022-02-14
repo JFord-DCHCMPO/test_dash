@@ -4,8 +4,6 @@ siuba
 plotnine
 voila
 jupyterlab
-requests
 pandas
-textblob
 plotly-express
-voila
+
